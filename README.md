@@ -1,7 +1,7 @@
-# My Code
-My codes
-یکی از این پروژه ها که اسمش Cat simulator هست یه شبیه ساز ساده ی گربه ست که میتونید برای گربه تون اسم بگذارید و بعدش بهش غذا بدید و باهاش بازی کنید یا حتی بذاریدش روی حالت بقا تا خودش بخوابه، خودش غذا بخوره و مستقل باشه
+My Code
 
-یکی دیگش Student score manager هست که یه برنامه ست که لیست نمره چند تا دانش آموز رو میگیره و آمار های مختلف رو حساب میکنه
+One of these projects is called "Cat simulator." It is a simple cat game. You can give your cat a name. Then you can feed it and play with it. You can also put it on survival mode. In that mode, it sleeps by itself, eats by itself, and is independent.
 
-یکی دیگه هم sales_analysis هست که تحلیل داده ی داده های فرضی فروش یک شرکت هست که با استفاده از pandasو numpyو matplot ساخته شده خیلی پروژه ی جالبیه
+Another one is "Student score manager." It is a program that takes the scores of a few students. Then it calculates different stats for you.
+
+Another one is "sales_analysis." It looks at fake sales data from a company. It uses pandas, numpy, and matplot. It is a very interesting project.
